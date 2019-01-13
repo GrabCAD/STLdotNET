@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>QuantumConcepts.Formats.STL</id>
-    <version>1.3.1</version>
+    <version>1.3.1.1</version>
     <title>Quantum Concepts STLdotNET</title>
     <authors>Quantum Concepts</authors>
     <owners>Quantum Concepts</owners>
@@ -17,6 +17,6 @@
   </metadata>
 
   <files>
-    <file src="Source\STL\bin\Release\QuantumConcepts.Formats.StereoLithography.*" target="lib\net451"/>
+    <file src="Source\STL\bin\Release\QuantumConcepts.Formats.StereoLithography.*" target="lib\net45"/>
   </files>
 </package>
